@@ -16,6 +16,9 @@ class CalculateFragment : Fragment() {
         arguments?.let {
 
         }
+
+
+
     }
 
     override fun onCreateView(
