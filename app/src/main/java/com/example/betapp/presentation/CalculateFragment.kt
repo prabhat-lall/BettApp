@@ -36,6 +36,8 @@ class CalculateFragment : Fragment() {
             CalculateFragment().apply {
                 arguments = Bundle().apply {
 
+
+                    var a = "Unnacessary commit"
                 }
             }
     }
