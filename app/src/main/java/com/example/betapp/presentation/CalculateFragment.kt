@@ -37,6 +37,7 @@ class CalculateFragment : Fragment() {
                     var a = "Unnacessary commit"
                     //comment 1
                     //comment 2
+                    //comment 3
                 }
             }
     }
